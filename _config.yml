@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shi Pu"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, School of Data Science, The Chinese University of Hong Kong, Shenzhen"
+  bio              : "Assistant Professor"
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
