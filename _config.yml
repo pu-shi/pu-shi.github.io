@@ -206,6 +206,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _lab
+  - scope:
+      path: ""
+      type: lab
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _teaching
   - scope:
       path: ""
