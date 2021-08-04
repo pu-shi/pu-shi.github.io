@@ -5,7 +5,13 @@ permalink: /lab/
 author_profile: true
 ---
 
-A data-driven personal website
+The Multi-Agent Learning and Optimization (MALO) Lab focuses on studying distributed learning and optimization in multi-agent networks.
+Recently, I have focused on designing novel distributed optimization algorithms for problems with uncertainties (stochastic optimization) and general network topologies (directed graphs).
+
+Asymptotic Network Independence in Distributed Optimization
+======
+
+Communication Compression in Decentralized Learning
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
