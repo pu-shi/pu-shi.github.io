@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "MALO Lab"
+permalink: /lab/
 author_profile: true
 ---
 
