@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Lab"
+  - title: "MALO Lab"
     url: /lab/
     
   - title: "Publications"
@@ -10,7 +10,4 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /teaching/
