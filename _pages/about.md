@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. My research interests mainly lie in distributed optimization, learning and control within networked multi-agent systems. Recently, I have focused on designing novel distributed optimization algorithms for problems with uncertainties (stochastic optimization) and general network topologies (directed graphs).
+Welcome to my homepage!
+
+I am an assistant professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. My research mainly lie in distributed optimization, learning and control within networked multi-agent systems.
 
 
 I am always looking for self-motivated students and postdocs with solid mathematical background and research interests in optimization, machine learning, distributed algorithms, game theory, etc. Postdoc positions are also available. Send me an email if you are interested.
