@@ -18,19 +18,28 @@ S. Pu, A. Olshevsky and I.C. Paschalidis, A Sharp Estimate on the Transient Time
 Journal Papers
 -----
 R. Xin, S. Pu, A. Nedić and U. Khan. A General Framework for Decentralized Optimization with First-order Methods. Proceedings of the IEEE, 108(11):1869-1889, 2020.
+
 S. Pu and A. Nedić. Distributed Stochastic Gradient Tracking Methods. Mathematical Programming, 187(1):409-457, 2021. [arxiv]
+
 S. Pu, A. Olshevsky and I.C. Paschalidis, Asymptotic Network Independence in Distributed Stochastic Optimization for Machine Learning: Examining Distributed and Centralized Stochastic Gradient Descent, IEEE Signal Processing Magazine, 37(3):114-122, 2020. [arxiv].
+
 S. Pu, W. Shi*, J. Xu and A. Nedić. Push-Pull Gradient Methods for Distributed Optimization in Networks. IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [arxiv]
+
 S. Pu, J.J. Escudero-Garzas, A. Garcia and S. Shahrampour. An Online Mechanism for Resource Allocation in Networks. IEEE Transactions on Control of Network Systems, 7(3):1140-1150, 2020.
+
 S. Pu and A. Garcia. Swarming for Faster Convergence in Stochastic Optimization. SIAM Journal on Control and Optimization, 56(4):2997-3020, 2018. [arxiv]
+
 S. Pu and A. Garcia. A Flocking-based Approach for Distributed Stochastic Optimization. Operations Research, 66(1):267-281, 2018. [arxiv]
+
 S. Pu, A. Garcia and Z. Lin. Noise Reduction by Swarming in Social Foraging. IEEE Transactions on Automatic Control, 61(12):4007-4013, 2016.
 (*co-first author)
 
 Conference Papers
 -----
 S. Pu, A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks,  2020 IEEE 59th Conference on Decision and Control (CDC), accepted.
+
 S. Pu and A. Nedić. A Distributed Stochastic Gradient Tracking Method. 2018 IEEE 57th Conference on Decision and Control (CDC). [arxiv]
+
 S. Pu, W. Shi, J. Xu and A. Nedić. A Push-Pull Gradient Method for Distributed Optimization in Networks. 2018 IEEE 57th Conference on Decision and Control (CDC). [arxiv]
 
 {% if author.googlescholar %}
