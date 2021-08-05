@@ -31,6 +31,8 @@ Invited Talks
 
 Conference Presentations
 -----
+7. Asymptotic Network Independence in Distributed Stochastic Gradient Methods, SIAM Conference on Optimization (OP21), July 2021.
+
 6. A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks,  2020 IEEE 59th Conference on Decision and Control (CDC), December 2020.
 
 5. A Distributed Stochastic Gradient Tracking Method. 2018 IEEE 57th Conference on Decision and Control (CDC), Miami, December 2018.
