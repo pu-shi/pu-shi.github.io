@@ -18,7 +18,8 @@ In a multi-agent network,
 
 Computing Architecture
 ---
-![Computing Architecture](/images/tpo-cen.png)
+![Centralized Architecture](/images/tpo_cen.png)
+![Decentralized Architecture](/images/tpo_dec.png)
 
 Funding Support
 ---
