@@ -11,7 +11,7 @@ Preprints
 
 4. Z. Song*, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf), preprint.
 
-3. Y. Liao*, Z. Li*, K. Huang* and S. Pu, [Compressed Gradient Tracking Methods for Decentralized Optimization with Linear Convergence](https://arxiv.org/pdf/2103.13748.pdf), submitted.
+3. Y. Liao\*, Z. Li\*, K. Huang\* and S. Pu, [Compressed Gradient Tracking Methods for Decentralized Optimization with Linear Convergence](https://arxiv.org/pdf/2103.13748.pdf), submitted.
 
 2. K. Huang* and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf), submitted.
 
@@ -25,7 +25,7 @@ Journal Papers
 
 6. S. Pu, A. Olshevsky and I.C. Paschalidis, [Asymptotic Network Independence in Distributed Stochastic Optimization for Machine Learning: Examining Distributed and Centralized Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9084351). IEEE Signal Processing Magazine, 37(3):114-122, 2020. [[arxiv](https://arxiv.org/pdf/1906.12345.pdf)].
 
-5. S. Pu, W. Shi†, J. Xu and A. Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arxiv](https://arxiv.org/pdf/1810.06653.pdf)]
+5. S. Pu, W. Shi<sup>†<sup>, J. Xu and A. Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arxiv](https://arxiv.org/pdf/1810.06653.pdf)]
 
 4. S. Pu, J.J. Escudero-Garzas, A. Garcia and S. Shahrampour. [An Online Mechanism for Resource Allocation in Networks](https://ieeexplore.ieee.org/abstract/document/8950126). IEEE Transactions on Control of Network Systems, 7(3):1140-1150, 2020.
 
@@ -42,7 +42,6 @@ Conference Papers
 2. S. Pu and A. Nedić. A Distributed Stochastic Gradient Tracking Method. 2018 IEEE 57th Conference on Decision and Control (CDC).
 
 1. S. Pu, W. Shi, J. Xu and A. Nedić. A Push-Pull Gradient Method for Distributed Optimization in Networks. 2018 IEEE 57th Conference on Decision and Control (CDC). 
-
 
 ***(co-)supervised student/postdoc †co-first author**
 
