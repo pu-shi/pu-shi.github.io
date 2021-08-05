@@ -13,38 +13,25 @@ Welcome to my homepage!
 I am an assistant professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. My research mainly lie in distributed optimization, learning and control within networked multi-agent systems.
 
 
-I am always looking for self-motivated students and postdocs with solid mathematical background and research interests in optimization, machine learning, distributed algorithms, game theory, etc. Postdoc positions are also available. Send me an email if you are interested.
+I am always looking for self-motivated students and postdocs with solid mathematical background and research interests in optimization, machine learning, distributed algorithms, game theory, etc.
 
 
 Recent News
-======
-* Register a GitHub account if you don't have one and confirm your e-mail (required!)
-* Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-----
+* July. 2021: Our paper, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan), is online!
+* June. 2021: Our paper, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan), is online!
+* May. 2021: Our paper, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf) (with Kun Huang), is online!
+* May. 2021: We are organizing a Minisymposium for The SIAM Conference on Optimization (OP21) this July (with Jinming Xu, Jie Lu and Hoi To Wai).
+* Mar. 2021: Our paper, [Compressed Gradient Tracking Methods for Decentralized Optimization with Linear Convergence](https://arxiv.org/pdf/2103.13748.pdf) (with Yiwei Liao, Zhuorui Li and Kun Huang), is online!
+* Mar. 2021: We are organizing an invited session for CDC 2021 this December in Austin, Texas (with Jinming Xu and Ming Yan).
+* Feb. 2021: On February 3, I was invited to give an online talk at Peking University. Thank Prof. Zhongkui Li for hosting!
+* Nov. 2020: On November 26, I was invited to give an online talk at Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Thank Yinghui Wang for hosting!
+* Aug. 2020: On August 14, I was invited to give an on online talk at Tsinghua University. Thank Prof. Keyou You for hosting!
+* Aug. 2020: On August 8, I was invited to give an online  talk at The Workshop on Control, Optimization and Security of Networked Systems, Southeast University. Thank Prof. Guanghui Wen for hosting!
+* July. 2020: On July 12, I was invited to give an online talk at Tongji University. Thank Prof. Jinlong Lei for hosting!
+* July. 2020: Our paper, A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks, has been accepted by 2020 IEEE 59th Conference on Decision and Control (CDC).
+* Mar. 2020: We are organizing an invited session for CDC 2020 this December in Jeju Island, Republic of Korea (with Jinming Xu and Hoi To Wai).
+* Mar. 2020: Our paper, [Distributed Stochastic Gradient Tracking Methods](https://link.springer.com/article/10.1007/s10107-020-01487-0) (with Angelia Nedić) has been accepted by Mathematical Programming.
+* Feb. 2020: Our paper, [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200) (with Wei Shi, Jinming Xu, and Angelia Nedić) has been accepted by IEEE Transactions on Automatic Control.
+* Jan. 2020: Our paper, [Asymptotic Network Independence in Distributed Stochastic Optimization for Machine Learning: Examining Distributed and Centralized Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9084351) (with Alex Olshevsky and Ioannis Ch. Paschalidis) has been accepted by IEEE Signal Processing Magazine.
+* Dec. 2019: Our paper, [An Online Mechanism for Resource Allocation in Networks](https://ieeexplore.ieee.org/abstract/document/8950126) (with J.J. Escudero-Garzas, Alfredo Garcia and Shahin Shahrampour) has been accepted by IEEE Transactions on Control of Network Systems.
