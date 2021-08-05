@@ -7,7 +7,7 @@ author_profile: true
 
 Instructor
 ---
-The Chinese University of Hong Kong, Shenzhen
+**The Chinese University of Hong Kong, Shenzhen**
 
 MAT 3007 - Optimization   &nbsp; *Fall 2020*
 
