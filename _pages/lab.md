@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 In the Multi-Agent Learning and Optimization (MALO) Lab, we study distributed algorithms for learning and optimization over multi-agent networks.
-Our research is interdisciplinary and spans several areas, including network science, optimization, control theory, and machine learning.
+Specifically, we design the rules followed by a group of autonomous agents, each with *local information*, collaborate to achieve a global objective through *local computation* and *local communication*.
+Our research is interdisciplinary in nature and spans several areas, including network science, optimization, control theory, and machine learning.
 
 
-
-Applications of our research include large-scale distributed machine learning, multi-robot coordination, decentralized estimation, among others.
+Applications include large-scale distributed machine learning, multi-robot coordination, decentralized estimation, among others.
 
 Multi-Agent Networks
 ---
@@ -18,7 +18,7 @@ In a multi-agent network,
 
 Computing Architecture
 ---
-![Centralized Architecture](/images/tpo_cen.png)
+![Centralized Architecture](/images/tpo_cen.png){:height="10%" width="10%"}
 ![Decentralized Architecture](/images/tpo_dec.png)
 
 Funding Support
