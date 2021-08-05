@@ -25,7 +25,7 @@ Journal Papers
 
 6. S. Pu, A. Olshevsky and I.C. Paschalidis, [Asymptotic Network Independence in Distributed Stochastic Optimization for Machine Learning: Examining Distributed and Centralized Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9084351). IEEE Signal Processing Magazine, 37(3):114-122, 2020. [[arxiv](https://arxiv.org/pdf/1906.12345.pdf)].
 
-5. S. Pu, W. Shi<sup>†<sup>, J. Xu and A. Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arxiv](https://arxiv.org/pdf/1810.06653.pdf)]
+5. S. Pu, W. Shi†, J. Xu and A. Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arxiv](https://arxiv.org/pdf/1810.06653.pdf)]
 
 4. S. Pu, J.J. Escudero-Garzas, A. Garcia and S. Shahrampour. [An Online Mechanism for Resource Allocation in Networks](https://ieeexplore.ieee.org/abstract/document/8950126). IEEE Transactions on Control of Network Systems, 7(3):1140-1150, 2020.
 
