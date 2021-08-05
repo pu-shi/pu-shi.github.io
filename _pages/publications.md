@@ -44,8 +44,8 @@ Conference Papers
 1. S. Pu, W. Shi, J. Xu and A. Nedić. A Push-Pull Gradient Method for Distributed Optimization in Networks. 2018 IEEE 57th Conference on Decision and Control (CDC). 
 
 
-*(co-)supervised student/postdoc †co-first author
--
+***(co-)supervised student/postdoc †co-first author**
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
