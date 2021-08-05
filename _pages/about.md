@@ -16,7 +16,7 @@ Research Interests
 ---
 Distributed optimization, machine learning, networked multi-agent systems.
 
-See [here](https://pu-shi.github.io/lab/) for our research projects and [here](https://pu-shi.github.io/publications/) for our publications.
+See [here](https://pu-shi.github.io/lab/) for our research projects, and [here](https://pu-shi.github.io/publications/) for our publications.
 
 Openings
 ---
