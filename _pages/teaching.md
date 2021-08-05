@@ -9,7 +9,7 @@ Instructor
 ---
 The Chinese University of Hong Kong, Shenzhen
 
-MAT 3007 - Optimization I   &nbsp; *Fall 2020*
+MAT 3007 - Optimization   &nbsp; *Fall 2020*
 
 STA 2001 - Probability and Statistics I &nbsp;  *Spring 2020 and Spring 2021*
 
