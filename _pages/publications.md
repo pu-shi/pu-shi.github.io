@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+(*co-first author)
+
 Preprints
 -----
 4. Z. Song, L. Shi, S. Pu and M. Yan, Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks, preprint.
@@ -32,7 +34,6 @@ Journal Papers
 2. S. Pu and A. Garcia. A Flocking-based Approach for Distributed Stochastic Optimization. Operations Research, 66(1):267-281, 2018. [arxiv]
 
 1. S. Pu, A. Garcia and Z. Lin. Noise Reduction by Swarming in Social Foraging. IEEE Transactions on Automatic Control, 61(12):4007-4013, 2016.
-(*co-first author)
 
 Conference Papers
 -----
