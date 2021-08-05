@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 In the Multi-Agent Learning and Optimization (MALO) Lab, we study distributed algorithms for learning and optimization over multi-agent networks.
-Specifically, we design the rules followed by a group of autonomous agents, each with *local information*, collaborate to achieve a global objective through *local computation* and *local communication*.
+Specifically, we design the rules for a group of autonomous agents, each with **local information**, to collaboratively achieve a global objective through **local computation** and **local communication**.
 Our research is interdisciplinary in nature that spans several areas, including network science, optimization, control theory, and machine learning.
 
 
