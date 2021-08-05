@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [School of Data Science](https://sds.cuhk.edu.cn/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/).
+Welcome! I am an assistant professor in the [School of Data Science](https://sds.cuhk.edu.cn/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/).
 
 Research Interests
 ---
