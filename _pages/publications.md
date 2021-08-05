@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Preprints
------
+----
 5. Z. Song*, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), preprint.
 
 4. Z. Song*, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf), preprint.
@@ -18,7 +18,7 @@ Preprints
 1. S. Pu, A. Olshevsky and I.C. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://arxiv.org/pdf/1906.02702.pdf), submitted.
 
 Journal Papers
------
+----
 8. R. Xin, S. Pu, A. Nedić and U. Khan. [A General Framework for Decentralized Optimization with First-order Methods](https://ieeexplore.ieee.org/abstract/document/9241497). Proceedings of the IEEE, 108(11):1869-1889, 2020.
 
 7. S. Pu and A. Nedić. [Distributed Stochastic Gradient Tracking Methods](https://link.springer.com/article/10.1007/s10107-020-01487-0). Mathematical Programming, 187(1):409-457, 2021. [[arxiv](https://arxiv.org/pdf/1805.11454.pdf)]
@@ -36,7 +36,7 @@ Journal Papers
 1. S. Pu, A. Garcia and Z. Lin. [Noise Reduction by Swarming in Social Foraging](https://ieeexplore.ieee.org/abstract/document/7406677). IEEE Transactions on Automatic Control, 61(12):4007-4013, 2016.
 
 Conference Papers
------
+----
 3. S. Pu, [A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks](https://ieeexplore.ieee.org/abstract/document/9303917), 2020 IEEE 59th Conference on Decision and Control (CDC).
 
 2. S. Pu and A. Nedić. A Distributed Stochastic Gradient Tracking Method. 2018 IEEE 57th Conference on Decision and Control (CDC).
