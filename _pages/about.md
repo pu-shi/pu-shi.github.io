@@ -9,19 +9,20 @@ redirect_from:
 ---
 
 Welcome to my homepage!
+
 I am an assistant professor in the [School of Data Science](https://sds.cuhk.edu.cn/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/).
 
 Research Interests
------
+---
 Distributed optimization, machine learning, networked multi-agent systems.
 
 Recruitment
------
+---
 I am always looking for self-motivated students with solid mathematical background and research interests in optimization, machine learning, distributed algorithms, game theory, etc.
 
 
 Recent News
------
+---
 * July. 2021: Our paper, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan), is online!
 * June. 2021: Our paper, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan), is online!
 * May. 2021: Our paper, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf) (with Kun Huang), is online!
