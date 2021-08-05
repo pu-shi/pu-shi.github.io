@@ -9,11 +9,15 @@ redirect_from:
 ---
 
 Welcome to my homepage!
+I am an assistant professor in the [School of Data Science](https://sds.cuhk.edu.cn/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/).
 
-I am an assistant professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. My research mainly lie in distributed optimization, learning and control within networked multi-agent systems.
+Research Interests
+-----
+Distributed optimization, machine learning, networked multi-agent systems.
 
-
-I am always looking for self-motivated students and postdocs with solid mathematical background and research interests in optimization, machine learning, distributed algorithms, game theory, etc.
+Recruitment
+-----
+I am always looking for self-motivated students with solid mathematical background and research interests in optimization, machine learning, distributed algorithms, game theory, etc.
 
 
 Recent News
