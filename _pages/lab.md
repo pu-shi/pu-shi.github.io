@@ -11,9 +11,12 @@ Our research is interdisciplinary in nature and spans areas including **network 
 
 ## Elements of Distributed Learning and Optimization
 
+### Multi-Agent Networks
+Computer networks, social networks, sensor networks, etc.
+
 ### Computing Architecture
 ![Centralized Architecture](/images/tpo_cen.png){:height="30%" width="30%"}
-![Decentralized Architecture](/images/tpo_dec.png){:height="30%" width="30%"}
+![Decentralized Architecture](/images/tpo_dec.png){:height="30%" width="30%"}  
 The above shows two typical computing architectures for distributed computation: centralized (left) vs decentralized (right). MALO Lab focuses on the **decentralized architecture** which requires no central controller, enjoys more flexibility, robustness, and lower communication overhead.
 
 ### Problem settings:
@@ -26,9 +29,6 @@ The above shows two typical computing architectures for distributed computation:
 * Coordination: synchronous, gossip, broadcast, fully asynchronous.  
 * Communication: compression, event-triggered.  
 * Robustness: tolerant to message losses, node failures, etc.
-
-### Multi-Agent Networks
-Computer networks, social networks, sensor networks, etc.
 
 
 Current Projects
