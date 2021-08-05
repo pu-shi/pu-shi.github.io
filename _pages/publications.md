@@ -5,15 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-(*(co-)supervised student/postdoc †co-first author)
-
 Preprints
 -----
 5. Z. Song*, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), preprint.
 
 4. Z. Song*, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf), preprint.
 
-3. Y. Liao*, Z. Li*, K. Huang *and S. Pu, [Compressed Gradient Tracking Methods for Decentralized Optimization with Linear Convergence](https://arxiv.org/pdf/2103.13748.pdf), submitted.
+3. Y. Liao*, Z. Li*, K. Huang* and S. Pu, [Compressed Gradient Tracking Methods for Decentralized Optimization with Linear Convergence](https://arxiv.org/pdf/2103.13748.pdf), submitted.
 
 2. K. Huang* and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf), submitted.
 
@@ -44,6 +42,10 @@ Conference Papers
 2. S. Pu and A. Nedić. A Distributed Stochastic Gradient Tracking Method. 2018 IEEE 57th Conference on Decision and Control (CDC).
 
 1. S. Pu, W. Shi, J. Xu and A. Nedić. A Push-Pull Gradient Method for Distributed Optimization in Networks. 2018 IEEE 57th Conference on Decision and Control (CDC). 
+
+
+*(co-)supervised student/postdoc †co-first author
+-
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
