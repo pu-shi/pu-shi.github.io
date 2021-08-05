@@ -20,7 +20,7 @@ See [here](https://pu-shi.github.io/lab/) for our research projects, and [here](
 
 Openings
 ---
-I am always looking for self-motivated students with solid mathematical background and research interests in optimization, machine learning, distributed algorithms, game theory, etc.
+We are always looking for self-motivated students with solid mathematical background and research interests in optimization, machine learning, distributed algorithms, game theory, etc.
 
 
 Group News
