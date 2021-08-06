@@ -27,7 +27,7 @@ Computer networks, social networks, sensor networks, etc.
   <img width="300" height="" src="/images/tpo_cen.png">
   <img width="300" height="" src="/images/tpo_dec.png">
 </p> 
-<center>Two typical computing architectures for distributed computation: centralized (left) vs decentralized (right).<center> 
+<center>Two typical computing architectures for distributed computation: centralized (left) vs decentralized (right).</center> 
  
 MALO Lab focuses on the **decentralized architecture** that requires no central controller and enjoys more flexibility, robustness, and lower communication overhead.
 
