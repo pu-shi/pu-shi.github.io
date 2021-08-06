@@ -9,7 +9,7 @@ MALOers
 ---
 
 <p align="center">
-  <img width="600" height="" src="/images/group.jpeg">
+  <img width="620" height="" src="/images/group.jpeg">
 </p>
 
 From left to right: 
