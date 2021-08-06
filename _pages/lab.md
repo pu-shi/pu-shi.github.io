@@ -29,9 +29,6 @@ Our research is interdisciplinary in nature and spans several areas including **
 ### Multi-Agent Networks
 Computer networks, social networks, sensor networks, etc.
 
-### Computing Architectures
-
-
 ### Problem settings:
 * Objective functions and constraints: convex vs nonconvex, unconstrained vs constrained, simple vs composite functions.  
 * Network topology: undirected vs directed, time-varying.  
