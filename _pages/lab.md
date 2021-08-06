@@ -13,7 +13,7 @@ Applications of our research include large-scale distributed machine learning, r
 Our research is interdisciplinary in nature and spans several areas including **network science**, **optimization**, **control theory**, and **machine learning**.
 
 <p align="center">
-  <img width="600" height="" src="/images/p2p.png">
+  <img width="500" height="" src="/images/p2p.png">
 </p> 
 <center>An illustration of distributed optimization over a directed network.</center>
 
@@ -23,9 +23,13 @@ Our research is interdisciplinary in nature and spans several areas including **
 Computer networks, social networks, sensor networks, etc.
 
 ### Computing Architecture
-![Centralized Architecture](/images/tpo_cen.png){:height="30%" width="30%"}
-![Decentralized Architecture](/images/tpo_dec.png){:height="30%" width="30%"}  
-The above shows two typical computing architectures for distributed computation: centralized (left) vs decentralized (right). MALO Lab focuses on the **decentralized architecture** that requires no central controller and enjoys more flexibility, robustness, and lower communication overhead.
+<p align="center">
+  <img width="300" height="" src="/images/tpo_cen.png">
+  <img width="300" height="" src="/images/tpo_dec.png">
+</p> 
+<center>Two typical computing architectures for distributed computation: centralized (left) vs decentralized (right).<center> 
+ 
+MALO Lab focuses on the **decentralized architecture** that requires no central controller and enjoys more flexibility, robustness, and lower communication overhead.
 
 ### Problem settings:
 * Objective functions and constraints: convex vs nonconvex, unconstrained vs constrained, simple vs composite functions.  
