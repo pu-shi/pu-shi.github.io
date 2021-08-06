@@ -15,7 +15,7 @@ Our research is interdisciplinary in nature and spans several areas including **
 <p align="center">
   <img width="600" height="" src="/images/p2p.png">
 </p> 
-The above is an illustration of distributed optimization over a directed network.
+<center>An illustration of distributed optimization over a directed network.</center>
 
 ## Distributed Learning and Optimization
 
