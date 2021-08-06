@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-![Group Photo](/images/group.jpeg){:height="60%" width="60%"}
+![Group Photo](/images/group.jpeg){:height="65%" width="65%"}
 
 From left to right: 
 
