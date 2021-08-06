@@ -60,7 +60,8 @@ Existing theory in distributed multi-agent optimization mainly concerns the numb
 ### Distributed Optimization over General Directed Networks
 
 Network topology plays a central role in the design and analysis of decentralized algorithms for learning and optimization over multi-agent networks. Most existing works consider undirected networks where the information exchange is bidirectional. However, in some real-world applications, directed networks are inevitable. This project will focus on designing novel algorithms for distributed learning and optimization in general directed networks.
-
+![Directed Network](/images/p2p.png){:height="50%" width="50%"}  
+Above is an illustration of distributed optimization over a directed network.
 
 **Related works:** 
 * Z. Song, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf).
