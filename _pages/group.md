@@ -5,19 +5,19 @@ permalink: /group/
 author_profile: true
 ---
 
-Group Members:
+MALO Lab Members:
 ---
-![Group Photo](/images/group.jpeg){:height="40%" width="40%"}
+![Group Photo](/images/group.jpeg){:height="60%" width="60%"}
 
 From left to right: 
 
-* Yiwei Liao (2020-), visiting student and postdoc, (Ph.D., Sichuan University)
+* Yiwei Liao (2020-), visiting student and postdoc, Ph.D. from Sichuan University
 
-* Bingyu Wang (2021-), postdoc, (Ph.D., Texas A&M University)
+* Bingyu Wang (2021-), postdoc, Ph.D. from Texas A&M University
 
 * Shi Pu (2019-), PI
 
-* Zhuorui Li (2020-2021), visiting undergraduate student from Sun Yat-Sen University, now master student at Georgia Tech
+* Zhuorui Li (2020-2021), visiting student from Sun Yat-Sen University, now master student at Georgia Tech
 
 * Kun Huang (2020-), Ph.D. student
 
