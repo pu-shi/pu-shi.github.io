@@ -51,7 +51,6 @@ Network topology plays a central role in the design and analysis of decentralize
 * Z. Song, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf).
 * S. Pu, [A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks](https://ieeexplore.ieee.org/abstract/document/9303917), 2020 IEEE 59th Conference on Decision and Control (CDC).
 * S. Pu, W. Shi, J. Xu and A. Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arxiv](https://arxiv.org/pdf/1810.06653.pdf)]
-* 
 
 ### Asymptotic Network Independence in Distributed Stochastic Gradient Methods
 
