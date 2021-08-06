@@ -8,6 +8,13 @@ author_profile: true
 In the Multi-Agent Learning and Optimization (MALO) Lab, we study distributed algorithms for learning and optimization over multi-agent networks.
 Specifically, we design the rules for a group of autonomous agents, each having **local information**, to collaboratively achieve global objectives through **local computation** and **local communication**.
 
+<p align="center">
+  <img width="300" height="" src="/images/tpo_cen.png">
+  <img width="300" height="" src="/images/tpo_dec.png">
+</p> 
+  The above shows two typical computing architectures for distributed computation: centralized (left) vs decentralized (right).
+MALO Lab focuses on the **decentralized architecture** that requires no central controller and enjoys more flexibility, robustness, and lower communication overhead.
+
 Applications of our research include large-scale distributed machine learning, resource allocation in networks, multi-robot coordination, decentralized estimation, among others.
 
 Our research is interdisciplinary in nature and spans several areas including **network science**, **optimization**, **control theory**, and **machine learning**.
@@ -23,13 +30,7 @@ Our research is interdisciplinary in nature and spans several areas including **
 Computer networks, social networks, sensor networks, etc.
 
 ### Computing Architectures
-<p align="center">
-  <img width="300" height="" src="/images/tpo_cen.png">
-  <img width="300" height="" src="/images/tpo_dec.png">
-</p> 
-<center>Two typical computing architectures for distributed computation: centralized (left) vs decentralized (right).</center> 
- 
-MALO Lab focuses on the **decentralized architecture** that requires no central controller and enjoys more flexibility, robustness, and lower communication overhead.
+
 
 ### Problem settings:
 * Objective functions and constraints: convex vs nonconvex, unconstrained vs constrained, simple vs composite functions.  
