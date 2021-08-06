@@ -24,21 +24,21 @@ Our research is interdisciplinary in nature and spans several areas including **
 </p> 
 <center>*An illustration of distributed optimization over a directed network*.</center>
 
-## Distributed Learning and Optimization
-
-### Multi-Agent Networks
-Computer networks, social networks, sensor networks, etc.
-
-### Problem settings:
-* Objective functions and constraints: convex vs nonconvex, unconstrained vs constrained, simple vs composite functions.  
-* Network topology: undirected vs directed, time-varying.  
-* Communication: delays, message losses, Byzantine attacks.
-
-### Algorithms:  
-* Optimization: (stochastic) gradients, zeroth-order, higher-order, dual methods, ADMM.  
-* Coordination: synchronous, gossip, broadcast, fully asynchronous.  
-* Communication: compression, event-triggered.  
-* Robustness: tolerant to message losses, node failures, etc.
+% ## Distributed Learning and Optimization
+% 
+% ### Multi-Agent Networks
+% Computer networks, social networks, sensor networks, etc.
+% 
+% ### Problem settings:
+% * Objective functions and constraints: convex vs nonconvex, unconstrained vs constrained, simple vs composite functions.  
+% * Network topology: undirected vs directed, time-varying.  
+% * Communication: delays, message losses, Byzantine attacks.
+% 
+% ### Algorithms:  
+% * Optimization: (stochastic) gradients, zeroth-order, higher-order, dual methods, ADMM.  
+% * Coordination: synchronous, gossip, broadcast, fully asynchronous.  
+% * Communication: compression, event-triggered.  
+% * Robustness: tolerant to message losses, node failures, etc.
 
 
 Current Projects
