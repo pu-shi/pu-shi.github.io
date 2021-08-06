@@ -3,6 +3,9 @@ main:
   - title: "MALO Lab"
     url: /lab/
     
+  - title: "Group"
+    url: /group/
+    
   - title: "Publications"
     url: /publications/
 
