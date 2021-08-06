@@ -17,7 +17,7 @@ Our research is interdisciplinary in nature and spans several areas including **
 </p> 
 The above is an illustration of distributed optimization over a directed network.
 
-## Elements of Distributed Learning and Optimization
+## Distributed Learning and Optimization
 
 ### Multi-Agent Networks
 Computer networks, social networks, sensor networks, etc.
@@ -64,7 +64,7 @@ Existing theory in distributed multi-agent optimization mainly concerns the numb
 
 ### Distributed Optimization over General Directed Networks
 
-Network topology plays a central role in the design and analysis of decentralized algorithms for learning and optimization over multi-agent networks. Most existing works consider undirected networks where the information exchange is bidirectional. However, in some real-world applications, directed networks are inevitable. This project will focus on designing novel algorithms for distributed learning and optimization in general directed networks.
+Network topology plays a central role in the design and analysis of decentralized algorithms for learning and optimization over multi-agent networks. Most existing works consider undirected networks where the information exchange is bidirectional. However, in some real-world applications, directed networks are inevitable. This project will focus on designing novel algorithms for distributed learning and optimization over general directed networks.
 
 **Related works:** 
 * Z. Song, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf).
