@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 <p align="center">
-  <img width="500" height="" src="/images/group.jpeg">
+  <img width="600" height="" src="/images/group.jpeg">
 </p>
-![Group Photo](/images/group.jpeg){:height="65%" width="65%"}
 
 From left to right: 
 
