@@ -40,7 +40,7 @@ Current Projects
 
 Distributed stochastic gradient methods are the workhorse for solving large-scale machine learning problems in networks. To accelerate convergence and improve the scalability of such methods, the project will focus on studying the asymptotic network independence property of distributed stochastic gradient algorithms, that is, asymptotically, distributed algorithms work as well as their centralized counterpart and is not affected by the network topology. Moreover, the project will develop algorithms with shorter transient times to achieve network independence.
 
-For an introduction on the **asymptotic network independence** property in distributed optimization, please refer to [this paper](https://ieeexplore.ieee.org/abstract/document/9084351).
+For an introduction on **asymptotic network independence** in distributed optimization, see [this paper](https://ieeexplore.ieee.org/abstract/document/9084351).
 
 **Related works:** 
 * K. Huang and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf).
