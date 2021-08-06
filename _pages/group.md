@@ -1,8 +1,11 @@
 ---
 layout: archive
-title: "Group"
+title: ""
 permalink: /group/
 author_profile: true
+---
+
+MALOers
 ---
 
 <p align="center">
