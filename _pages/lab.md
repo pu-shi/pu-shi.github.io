@@ -38,9 +38,9 @@ Current Projects
 ---
 ### Asymptotic Network Independence in Distributed Stochastic Gradient Methods
 
-Distributed stochastic gradient methods are the workhorse for solving large-scale machine learning problems in networks. To accelerate convergence and improve the scalability of such methods, the project will focus on studying the **asymptotic network independence** property of distributed stochastic gradient algorithms, that is, asymptotically, distributed algorithms work as well as their centralized counterpart and is not affected by the network topology. Moreover, the project will develop algorithms with shorter transient times to achieve network independence.
+Distributed stochastic gradient methods are the workhorse for solving large-scale machine learning problems in networks. To accelerate convergence and improve the scalability of such methods, the project will focus on studying the asymptotic network independence property of distributed stochastic gradient algorithms, that is, asymptotically, distributed algorithms work as well as their centralized counterpart and is not affected by the network topology. Moreover, the project will develop algorithms with shorter transient times to achieve network independence.
 
-For an introduction on the **Asymptotic Network Independence** property in distributed optimization, please refer to [this paper](https://ieeexplore.ieee.org/abstract/document/9084351).
+For an introduction on the **asymptotic network independence** property in distributed optimization, please refer to [this paper](https://ieeexplore.ieee.org/abstract/document/9084351).
 
 **Related works:** 
 * K. Huang and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf).
@@ -60,9 +60,8 @@ Existing theory in distributed multi-agent optimization mainly concerns the numb
 ### Distributed Optimization over General Directed Networks
 
 Network topology plays a central role in the design and analysis of decentralized algorithms for learning and optimization over multi-agent networks. Most existing works consider undirected networks where the information exchange is bidirectional. However, in some real-world applications, directed networks are inevitable. This project will focus on designing novel algorithms for distributed learning and optimization in general directed networks.
-![Undirected Network](/images/undirected_graph.jpg){:height="30%" width="30%"}
-![Directed Network](/images/directed_graph_2.jpg){:height="30%" width="30%"}
-Unirected network (left) vs directed network (right).
+![Directed Network](/images/p2p.png){:height="30%" width="30%"}  
+Above is an illustration of distributed optimization over a directed network.
 
 **Related works:** 
 * Z. Song, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf).
