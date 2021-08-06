@@ -13,7 +13,7 @@ Applications of our research include large-scale distributed machine learning, r
 Our research is interdisciplinary in nature and spans several areas including **network science**, **optimization**, **control theory**, and **machine learning**.
 
 <p align="center">
-  <img width="500" height="" src="/images/p2p.png">
+  <img width="400" height="" src="/images/p2p.png">
 </p> 
 <center>An illustration of distributed optimization over a directed network.</center>
 
