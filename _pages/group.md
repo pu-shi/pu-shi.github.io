@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Group"
 permalink: /group/
 author_profile: true
 ---
 
-MALO Lab Members:
----
 ![Group Photo](/images/group.jpeg){:height="60%" width="60%"}
 
 From left to right: 
