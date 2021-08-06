@@ -12,7 +12,7 @@ Specifically, we design the rules for a group of autonomous agents, each having 
   <img width="300" height="" src="/images/tpo_cen.png">
   <img width="300" height="" src="/images/tpo_dec.png">
 </p> 
-  The above shows two typical computing architectures for distributed computation: centralized (left) vs decentralized (right).
+  <center>Two typical computing architectures for distributed computation: centralized (left) vs decentralized (right).</center>
 MALO Lab focuses on the **decentralized architecture** that requires no central controller and enjoys more flexibility, robustness, and lower communication overhead.
 
 Applications of our research include large-scale distributed machine learning, resource allocation in networks, multi-robot coordination, decentralized estimation, among others.
