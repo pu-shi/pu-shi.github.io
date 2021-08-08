@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* July. 2021: I gave a talk titled "Asymptotic Network Independence in Distributed Stochastic Gradient Methods" at SIAM Conference on Optimization (OP21).
 * July. 2021: Our paper, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan), is online!
 * June. 2021: Our paper, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan), is online!
 * May. 2021: Our paper, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf) (with Kun Huang), is online!
