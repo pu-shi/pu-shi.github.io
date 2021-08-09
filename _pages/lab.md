@@ -50,7 +50,7 @@ Network topology plays a central role in the design and analysis of decentralize
 * Z. Song, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf).
 * Z. Song, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf).
 * S. Pu, [A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks](https://ieeexplore.ieee.org/abstract/document/9303917), 2020 IEEE 59th Conference on Decision and Control (CDC).
-* S. Pu, W. Shi, J. Xu and A. Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arxiv](https://arxiv.org/pdf/1810.06653.pdf)]
+* S. Pu, W. Shi, J. Xu and A. Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arXiv](https://arxiv.org/pdf/1810.06653.pdf)]
 
 ### Asymptotic Network Independence in Distributed Stochastic Gradient Methods
 
@@ -61,8 +61,8 @@ See [this paper](https://ieeexplore.ieee.org/abstract/document/9084351) for an i
 **Related works:** 
 * K. Huang and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf).
 * S. Pu, A. Olshevsky and I.C. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://arxiv.org/pdf/1906.02702.pdf).
-* S. Pu, A. Olshevsky and I.C. Paschalidis, [Asymptotic Network Independence in Distributed Stochastic Optimization for Machine Learning: Examining Distributed and Centralized Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9084351). IEEE Signal Processing Magazine, 37(3):114-122, 2020. [[arxiv](https://arxiv.org/pdf/1906.12345.pdf)].
-* S. Pu and A. Nedić. [Distributed Stochastic Gradient Tracking Methods](https://link.springer.com/article/10.1007/s10107-020-01487-0). Mathematical Programming, 187(1):409-457, 2021. [[arxiv](https://arxiv.org/pdf/1805.11454.pdf)]
+* S. Pu, A. Olshevsky and I.C. Paschalidis, [Asymptotic Network Independence in Distributed Stochastic Optimization for Machine Learning: Examining Distributed and Centralized Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9084351). IEEE Signal Processing Magazine, 37(3):114-122, 2020. [[arXiv](https://arxiv.org/pdf/1906.12345.pdf)].
+* S. Pu and A. Nedić. [Distributed Stochastic Gradient Tracking Methods](https://link.springer.com/article/10.1007/s10107-020-01487-0). Mathematical Programming, 187(1):409-457, 2021. [[arXiv](https://arxiv.org/pdf/1805.11454.pdf)]
 
 ### Communication-Efficient Decentralized Learning Methods
 
