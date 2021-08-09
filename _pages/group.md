@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Group"
 permalink: /group/
 author_profile: true
 ---
+
 
 <p align="center">
   <img width="620" height="" src="/images/group.jpeg">
