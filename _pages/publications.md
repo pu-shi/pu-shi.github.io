@@ -7,20 +7,20 @@ author_profile: true
 
 Preprints
 ----
-6. Z. Song*, L. Shi, S. Pu and M. Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), preprint.
+5. Z. Song*, L. Shi, S. Pu and M. Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), preprint.
 
-5. Z. Song*, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), preprint.
+4. Z. Song*, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), preprint.
 
-4. Z. Song*, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf), submitted.
+3. Z. Song*, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf), submitted.
 
-3. Y. Liao\*, Z. Li\*, K. Huang\* and S. Pu, [Compressed Gradient Tracking Methods for Decentralized Optimization with Linear Convergence](https://arxiv.org/pdf/2103.13748.pdf), submitted.
+2. Y. Liao\*, Z. Li\*, K. Huang\* and S. Pu, [Compressed Gradient Tracking Methods for Decentralized Optimization with Linear Convergence](https://arxiv.org/pdf/2103.13748.pdf), submitted.
 
-2. K. Huang* and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf), submitted.
-
-1. S. Pu, A. Olshevsky and I.C. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://arxiv.org/pdf/1906.02702.pdf), submitted.
+1. K. Huang* and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf), submitted.
 
 Journal Papers
 ----
+9. S. Pu, A. Olshevsky and I.C. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://arxiv.org/pdf/1906.02702.pdf), IEEE Transactions on Automatic Control, accepted.
+
 8. R. Xin, S. Pu, A. Nedić and U. Khan. [A General Framework for Decentralized Optimization with First-order Methods](https://ieeexplore.ieee.org/abstract/document/9241497). Proceedings of the IEEE, 108(11):1869-1889, 2020.
 
 7. S. Pu and A. Nedić. [Distributed Stochastic Gradient Tracking Methods](https://link.springer.com/article/10.1007/s10107-020-01487-0). Mathematical Programming, 187(1):409-457, 2021. [[arXiv](https://arxiv.org/pdf/1805.11454.pdf)]
