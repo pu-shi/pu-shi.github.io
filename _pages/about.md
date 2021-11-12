@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* Oct. 2021: Our paper, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://arxiv.org/pdf/1906.02702.pdf) (with A. Olshevsky and I.C. Paschalidis), has been accepted for publication in IEEE Transactions on Automatic Control!
 * Oct. 2021: Our paper, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan), is online! In this paper, we propose an Optimal Gradient Tracking (OGT) method that achieves the optimal gradient computation complexity and the optimal communication complexity simultaneously (for smooth and strongly convex objective functions)!
 * July. 2021: I gave a talk titled "Asymptotic Network Independence in Distributed Stochastic Gradient Methods" at SIAM Conference on Optimization (OP21).
 * July. 2021: Our paper, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan), is online!
