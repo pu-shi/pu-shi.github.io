@@ -7,7 +7,7 @@ author_profile: true
 
 Preprints
 ----
-5. Z. Song*, L. Shi, S. Pu and M. Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), preprint.
+5. Z. Song*, L. Shi, S. Pu and M. Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), submitted.
 
 4. Z. Song*, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), preprint.
 
