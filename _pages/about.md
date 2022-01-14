@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* Dec. 2021: Our paper, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf) (with K. Huang, X. Li, A. Milzarek, and J. Qiu), is online!
 * Nov. 2021: On November 14, I was invited to give an online talk titled "Asymptotic Network Independence in Distributed Stochastic Gradient Methods" at CAA YeS Forum. Thank Prof. Xiuxian Li for hosting!
 * Oct. 2021: Our paper, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://arxiv.org/pdf/1906.02702.pdf) (with A. Olshevsky and I.C. Paschalidis), has been accepted for publication in IEEE Transactions on Automatic Control!
 * Oct. 2021: Our paper, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan), is online! In this paper, we propose an Optimal Gradient Tracking (OGT) method that achieves the optimal gradient computation complexity and the optimal communication complexity simultaneously (for smooth and strongly convex objective functions)!
