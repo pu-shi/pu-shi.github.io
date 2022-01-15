@@ -7,9 +7,7 @@ author_profile: true
 
 Invited Talks
 ----
-12. Asymptotic Network Independence in Distributed Stochastic Gradient Methods, CAA YeS Forum, November 2021. 
-
-11. Push-Pull Gradient Methods for Distributed Optimization in Networks. China Systems Science Conference, Nanjing, May 2021.
+11. Asymptotic Network Independence in Distributed Stochastic Gradient Methods, CAA YeS Forum, November 2021. 
 
 10. Push-Pull Gradient Methods for Distributed Optimization in Networks. Peking University, January 2021.
 
@@ -33,7 +31,9 @@ Invited Talks
 
 Conference Presentations
 ----
-7. Asymptotic Network Independence in Distributed Stochastic Gradient Methods, SIAM Conference on Optimization (OP21), July 2021.
+8. Asymptotic Network Independence in Distributed Stochastic Gradient Methods, SIAM Conference on Optimization (OP21), July 2021.
+
+7. Push-Pull Gradient Methods for Distributed Optimization in Networks. China Systems Science Conference, Nanjing, May 2021.
 
 6. A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks,  2020 IEEE 59th Conference on Decision and Control (CDC), December 2020.
 
