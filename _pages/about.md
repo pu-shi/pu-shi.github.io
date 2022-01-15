@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Shi Pu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
