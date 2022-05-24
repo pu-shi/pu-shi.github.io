@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* May. 2022: Our paper, A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence (with Yiwei Liao, Zhuorui Li and Kun Huang), has been accepted for publication in IEEE Transactions on Automatic Control!
 * Mar. 2022: Our paper, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://ieeexplore.ieee.org/abstract/document/9737402) (with Zhuoqing Song, Lei Shi and Ming Yan), has been accepted for publication in IEEE Transactions on Signal Processing!
 * Dec. 2021: Our paper, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf) (with Kun Huang, Xiao Li, Andre Milzarek, and Junwen Qiu), is online!
 * Nov. 2021: On November 14, I was invited to give an online talk titled "Asymptotic Network Independence in Distributed Stochastic Gradient Methods" at CAA YeS Forum. Thank Prof. Xiuxian Li for hosting!
