@@ -11,7 +11,7 @@ Preprints
 
 3. Z. Song*, L. Shi, S. Pu and M. Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), submitted.
 
-2. Z. Song*, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), preprint.
+2. Z. Song*, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), submitted.
 
 1. K. Huang* and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf), submitted.
 
