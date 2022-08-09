@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* July. 2022: We organized an invited session titled "Recent Advances in Distributed Optimization and Learning" in Chinese Control Conference (CCC2022) (with Jinming Xu and Huan Li)!
 * May. 2022: Our paper, A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence (with Yiwei Liao, Zhuorui Li and Kun Huang), has been accepted for publication in IEEE Transactions on Automatic Control!
 * Mar. 2022: Our paper, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://ieeexplore.ieee.org/abstract/document/9737402) (with Zhuoqing Song, Lei Shi and Ming Yan), has been accepted for publication in IEEE Transactions on Signal Processing!
 * Dec. 2021: Our paper, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf) (with Kun Huang, Xiao Li, Andre Milzarek, and Junwen Qiu), is online!
