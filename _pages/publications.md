@@ -7,16 +7,16 @@ author_profile: true
 
 Preprints
 ----
-4. K. Huang*, X. Li, A. Milzarek, S. Pu and J. Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), preprint.
+3. K. Huang*, X. Li, A. Milzarek, S. Pu and J. Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), preprint.
 
-3. Z. Song*, L. Shi, S. Pu and M. Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), submitted.
+2. Z. Song*, L. Shi, S. Pu and M. Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), submitted.
 
-2. Z. Song*, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), submitted.
-
-1. K. Huang* and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf), submitted.
+1. Z. Song*, L. Shi, S. Pu and M. Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), submitted.
 
 Journal Papers
 ----
+12. K. Huang* and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://arxiv.org/pdf/2105.04851.pdf), IEEE Transactions on Automatic Control, accepted.
+
 11. Z. Song*, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://arxiv.org/pdf/2106.07243.pdf), IEEE Transactions on Signal Processing, accepted.
 
 10. Y. Liao\*, Z. Li\*, K. Huang\* and S. Pu, [A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence](https://arxiv.org/pdf/2103.13748.pdf), IEEE Transactions on Automatic Control, accepted.
