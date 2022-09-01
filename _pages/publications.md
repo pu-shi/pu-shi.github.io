@@ -7,7 +7,7 @@ author_profile: true
 
 Preprints
 ----
-3. K. Huang*, X. Li, A. Milzarek, S. Pu and J. Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), preprint.
+3. K. Huang*, X. Li, A. Milzarek, S. Pu and J. Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), submitted.
 
 2. Z. Song*, L. Shi, S. Pu and M. Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), submitted.
 
