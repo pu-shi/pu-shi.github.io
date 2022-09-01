@@ -8,4 +8,4 @@ In 2012, I received a B.S. Degree in Engineering Mechanics from Peking Universit
 
 Since September 2019, I have been an assistant professor at the Chinese University of Hong Kong, Shenzhen. From 2019 to 2020, I was with The Institute for Data and Decision Analytics (iDDA), which was then merged into [School of Data Science](https://sds.cuhk.edu.cn/). My research has been funded by the National Natural Science Foundation of China (NSFC), Shenzhen Research Institute of Big Data (SRIBD), Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), and Shenzhen Science and Technology Program.
 
-I enjoy playing soccer, table tennis, climbing, badminton and other fun sports.
+I enjoy playing soccer, table tennis, badminton and other fun sports.
