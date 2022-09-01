@@ -23,7 +23,8 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
-* August. 2022: Our paper, Improving the Transient Times for Distributed Stochastic Gradient Methods (with Kun Huang), has been accepted for publication as a full paper in IEEE Transactions on Automatic Control!
+* August. 2022: Our paper, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230) (with Kun Huang), has been accepted for publication as a full paper in IEEE Transactions on Automatic Control!
+* July. 2022: I became a member of the Conference Editorial Board (CEB) of the IEEE Control Systems Society (CSS).
 * July. 2022: We organized an invited session titled "Recent Advances in Distributed Optimization and Learning" in Chinese Control Conference (CCC2022) (with Jinming Xu and Huan Li)!
 * May. 2022: Our paper, [A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence](https://ieeexplore.ieee.org/abstract/document/9789732) (with Yiwei Liao, Zhuorui Li and Kun Huang), has been accepted for publication in IEEE Transactions on Automatic Control!
 * Mar. 2022: Our paper, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://ieeexplore.ieee.org/abstract/document/9737402) (with Zhuoqing Song, Lei Shi and Ming Yan), has been accepted for publication in IEEE Transactions on Signal Processing!
