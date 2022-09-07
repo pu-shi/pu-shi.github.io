@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* Sep. 2022: Our paper, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf) (with Yijie Zhou), is online!
 * August. 2022: Our paper, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230) (with Kun Huang), has been accepted for publication as a full paper in IEEE Transactions on Automatic Control!
 * July. 2022: I became a member of the Conference Editorial Board (CEB) of the IEEE Control Systems Society (CSS).
 * July. 2022: We organized an invited session titled "Recent Advances in Distributed Optimization and Learning" in Chinese Control Conference (CCC2022) (with Jinming Xu and Huan Li)!
