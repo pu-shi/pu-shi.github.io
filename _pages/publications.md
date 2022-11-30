@@ -19,19 +19,19 @@ Journal Papers
 ----
 12. K. Huang* and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230), IEEE Transactions on Automatic Control, accepted.
 
-11. Z. Song*, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://ieeexplore.ieee.org/abstract/document/9737402), IEEE Transactions on Signal Processing, accepted.
+11. Z. Song*, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://ieeexplore.ieee.org/abstract/document/9737402), IEEE Transactions on Signal Processing, 70:1775 - 1787, 2022.
 
-10. Y. Liao\*, Z. Li\*, K. Huang\* and S. Pu, [A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence](https://ieeexplore.ieee.org/abstract/document/9789732), IEEE Transactions on Automatic Control, accepted.
+10. Y. Liao\*, Z. Li\*, K. Huang\* and S. Pu, [A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence](https://ieeexplore.ieee.org/abstract/document/9789732), IEEE Transactions on Automatic Control, 67(10):5622-5629, 2022.
 
 9. S. Pu, A. Olshevsky and I.C. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9609587), IEEE Transactions on Automatic Control, 67(11):5900-5915, 2022.
 
-8. R. Xin, S. Pu, A. Nedić and U. Khan. [A General Framework for Decentralized Optimization with First-order Methods](https://ieeexplore.ieee.org/abstract/document/9241497). Proceedings of the IEEE, 108(11):1869-1889, 2020.
+8. S. Pu and A. Nedić. [Distributed Stochastic Gradient Tracking Methods](https://link.springer.com/article/10.1007/s10107-020-01487-0). Mathematical Programming, 187(1):409-457, 2021. [[arXiv](https://arxiv.org/pdf/1805.11454.pdf)]
 
-7. S. Pu and A. Nedić. [Distributed Stochastic Gradient Tracking Methods](https://link.springer.com/article/10.1007/s10107-020-01487-0). Mathematical Programming, 187(1):409-457, 2021. [[arXiv](https://arxiv.org/pdf/1805.11454.pdf)]
+7. S. Pu, W. Shi†, J. Xu and A. Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arXiv](https://arxiv.org/pdf/1810.06653.pdf)]
 
-6. S. Pu, A. Olshevsky and I.C. Paschalidis, [Asymptotic Network Independence in Distributed Stochastic Optimization for Machine Learning: Examining Distributed and Centralized Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9084351). IEEE Signal Processing Magazine, 37(3):114-122, 2020. [[arXiv](https://arxiv.org/pdf/1906.12345.pdf)].
+6. R. Xin, S. Pu, A. Nedić and U. Khan. [A General Framework for Decentralized Optimization with First-order Methods](https://ieeexplore.ieee.org/abstract/document/9241497). Proceedings of the IEEE, 108(11):1869-1889, 2020.
 
-5. S. Pu, W. Shi†, J. Xu and A. Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arXiv](https://arxiv.org/pdf/1810.06653.pdf)]
+5. S. Pu, A. Olshevsky and I.C. Paschalidis, [Asymptotic Network Independence in Distributed Stochastic Optimization for Machine Learning: Examining Distributed and Centralized Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9084351). IEEE Signal Processing Magazine, 37(3):114-122, 2020. [[arXiv](https://arxiv.org/pdf/1906.12345.pdf)].
 
 4. S. Pu, J.J. Escudero-Garzas, A. Garcia and S. Shahrampour. [An Online Mechanism for Resource Allocation in Networks](https://ieeexplore.ieee.org/abstract/document/8950126). IEEE Transactions on Control of Network Systems, 7(3):1140-1150, 2020.
 
