@@ -23,7 +23,7 @@ Journal Papers
 
 10. Y. Liao\*, Z. Li\*, K. Huang\* and S. Pu, [A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence](https://ieeexplore.ieee.org/abstract/document/9789732), IEEE Transactions on Automatic Control, accepted.
 
-9. S. Pu, A. Olshevsky and I.C. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9609587), IEEE Transactions on Automatic Control, accepted.
+9. S. Pu, A. Olshevsky and I.C. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9609587), IEEE Transactions on Automatic Control, 67(11):5900-5915, 2022.
 
 8. R. Xin, S. Pu, A. Nedić and U. Khan. [A General Framework for Decentralized Optimization with First-order Methods](https://ieeexplore.ieee.org/abstract/document/9241497). Proceedings of the IEEE, 108(11):1869-1889, 2020.
 
