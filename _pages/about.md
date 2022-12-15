@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* Dec. 2022: Our paper, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf) (with Yijie Zhou), has been accepted for publication in IEEE Control Systems Letters!
 * Nov. 2022: On November 12, I was invited to give an online talk titled "Asymptotic Network Independence in Distributed Stochastic Gradient Methods" at 智能无人系统协同优化与博弈论坛. Thank Prof. Yanan Zhu!
 * Sep. 2022: Our paper, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf) (with Yijie Zhou), is online!
 * August. 2022: Congratulations to Kun Huang for winning the presentation runner-up prize at The Second Doctoral and Postdoctoral Daoyuan Academic Forum!
