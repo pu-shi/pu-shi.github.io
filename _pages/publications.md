@@ -7,8 +7,6 @@ author_profile: true
 
 Preprints
 ----
-4. Y. Zhou* and S. Pu, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf), submitted.
-
 3. K. Huang*, X. Li, A. Milzarek, S. Pu and J. Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), submitted.
 
 2. Z. Song*, L. Shi, S. Pu and M. Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), submitted.
@@ -17,6 +15,8 @@ Preprints
 
 Journal Papers
 ----
+13. Y. Zhou* and S. Pu, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf), IEEE Control Systems Letters, accepted.
+
 12. K. Huang* and S. Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230), IEEE Transactions on Automatic Control, accepted.
 
 11. Z. Song*, L. Shi, S. Pu and M. Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://ieeexplore.ieee.org/abstract/document/9737402), IEEE Transactions on Signal Processing, 70:1775 - 1787, 2022.
