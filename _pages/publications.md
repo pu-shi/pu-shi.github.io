@@ -51,7 +51,7 @@ Conference Papers
 
 1. Shi Pu, Wei Shi, Jinming Xu and Angelia Nedić. A Push-Pull Gradient Method for Distributed Optimization in Networks. 2018 IEEE 57th Conference on Decision and Control (CDC). 
 
-*(co-)supervised student/postdoc
+***(co-)supervised student/postdoc**
 
 
 {% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
