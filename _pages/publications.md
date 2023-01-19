@@ -7,7 +7,7 @@ author_profile: true
 
 Preprints
 ----
-5. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
+4. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
 
 3. Kun Huang*, Xiao Li, Andre Milzarek, Shi Pu and Junwen Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), submitted.
 
@@ -51,7 +51,7 @@ Conference Papers
 
 1. Shi Pu, Wei Shi, Jinming Xu and Angelia Nedić. A Push-Pull Gradient Method for Distributed Optimization in Networks. 2018 IEEE 57th Conference on Decision and Control (CDC). 
 
-
+*(co-)supervised student/postdoc
 
 
 {% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
