@@ -7,7 +7,7 @@ author_profile: true
 
 Preprints
 ----
-4. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
+5. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
 
 3. Kun Huang*, Xiao Li, Andre Milzarek, Shi Pu and Junwen Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), submitted.
 
