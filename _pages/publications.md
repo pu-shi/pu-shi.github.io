@@ -25,7 +25,7 @@ Journal Papers
 
 11. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://ieeexplore.ieee.org/abstract/document/9737402), IEEE Transactions on Signal Processing, 70:1775 - 1787, 2022.
 
-10. Yiwei Liao*,  Zhuorui Li*, Kun Huang* and Shi Pu, [A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence](https://ieeexplore.ieee.org/abstract/document/9789732), IEEE Transactions on Automatic Control, 67(10):5622-5629, 2022.
+10. Yiwei Liao\*,  Zhuorui Li\*, Kun Huang* and Shi Pu, [A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence](https://ieeexplore.ieee.org/abstract/document/9789732), IEEE Transactions on Automatic Control, 67(10):5622-5629, 2022.
 
 9. Shi Pu, Alex Olshevsky and Ioannis Ch. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9609587), IEEE Transactions on Automatic Control, 67(11):5900-5915, 2022.
 
