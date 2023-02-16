@@ -19,7 +19,7 @@ Preprints
 
 Journal Papers
 ----
-13. Yijie Zhou* and Shi Pu, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf), IEEE Control Systems Letters, accepted.
+13. Yijie Zhou* and Shi Pu, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf), IEEE Control Systems Letters, 7:1339 - 1344, 2023.
 
 12. Kun Huang* and Shi Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230), IEEE Transactions on Automatic Control, accepted.
 
