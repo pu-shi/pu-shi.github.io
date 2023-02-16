@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* Jan. 2023: Our paper, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677) (with Kun Huang and Xiao Li), is online!
 * Jan. 2023: Our paper, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872) (with Kun Huang), is online!
 * Dec. 2022: Our paper, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf) (with Yijie Zhou), has been accepted for publication in IEEE Control Systems Letters!
 * Nov. 2022: On November 12, I was invited to give an online talk titled "Asymptotic Network Independence in Distributed Stochastic Gradient Methods" at 智能无人系统协同优化与博弈论坛. Thank Prof. Yanan Zhu!
