@@ -23,6 +23,8 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* Mar. 2023: Our paper, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091) (with Yiwei Liao and Zhuorui Li), is online!
+* Mar. 2023: Our paper, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf) (with Kun Huang, Xiao Li, Andre Milzarek, and Junwen Qiu), has been accepted for publication in IEEE Transactions on Signal Processing!
 * Jan. 2023: Our paper, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677) (with Kun Huang and Xiao Li), is online!
 * Jan. 2023: Our paper, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872) (with Kun Huang), is online!
 * Dec. 2022: Our paper, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf) (with Yijie Zhou), has been accepted for publication in IEEE Control Systems Letters!
