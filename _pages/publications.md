@@ -11,7 +11,7 @@ Preprints
 
 4. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
 
-3. Kun Huang*, Xiao Li, Andre Milzarek, Shi Pu and Junwen Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), submitted.
+3. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), submitted.
 
 2. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), submitted.
 
@@ -19,6 +19,8 @@ Preprints
 
 Journal Papers
 ----
+14. Kun Huang*, Xiao Li, Andre Milzarek, Shi Pu and Junwen Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), IEEE Transactions on Signal Processing, accepted.
+
 13. Yijie Zhou* and Shi Pu, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf), IEEE Control Systems Letters, 7:1339 - 1344, 2023.
 
 12. Kun Huang* and Shi Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230), IEEE Transactions on Automatic Control, accepted.
