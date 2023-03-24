@@ -47,6 +47,10 @@ Journal Papers
 
 1. Shi Pu, Alfredo Garcia and Zongli Lin. [Noise Reduction by Swarming in Social Foraging](https://ieeexplore.ieee.org/abstract/document/7406677). IEEE Transactions on Automatic Control, 61(12):4007-4013, 2016.
 
+Book Chapter
+----
+1. Alfredo Garcia, Bingyu Wang\* and Shi Pu. [Distributed Optimization](https://link.springer.com/referenceworkentry/10.1007/978-3-030-54621-2_809-1). In: Pardalos, P.M., Prokopyev, O.A. (eds) Encyclopedia of Optimization. Springer, Cham.
+
 Conference Papers
 ----
 3. Shi Pu, [A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks](https://ieeexplore.ieee.org/abstract/document/9303917), 2020 IEEE 59th Conference on Decision and Control (CDC).
