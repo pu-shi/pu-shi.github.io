@@ -7,18 +7,18 @@ author_profile: true
 
 Preprints
 ----
-5. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677), submitted.
+4. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677), submitted.
 
-4. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
+3. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
 
-3. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), submitted.
-
-2. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), submitted.
+2. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), submitted.
 
 1. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), submitted.
 
 Journal Papers
 ----
+15. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), Mathematical Programming, accepted.
+
 14. Kun Huang*, Xiao Li, Andre Milzarek, Shi Pu and Junwen Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), IEEE Transactions on Signal Processing, accepted.
 
 13. Yijie Zhou* and Shi Pu, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf), IEEE Control Systems Letters, 7:1339 - 1344, 2023.
