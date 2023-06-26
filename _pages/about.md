@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* Jun. 2023: Our new paper, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037) (with Linli Zhou and Kun Huang), is online!
 * Jun. 2023: Our paper, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan) has been accepted for publication in Mathematical Programming!
 * Mar. 2023: Our paper, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091) (with Yiwei Liao and Zhuorui Li), is online!
 * Mar. 2023: Our paper, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf) (with Kun Huang, Xiao Li, Andre Milzarek, and Junwen Qiu), has been accepted for publication in IEEE Transactions on Signal Processing!
