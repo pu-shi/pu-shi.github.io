@@ -21,11 +21,11 @@ Journal Papers
 ----
 15. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), Mathematical Programming, accepted.
 
-14. Kun Huang*, Xiao Li, Andre Milzarek, Shi Pu and Junwen Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), IEEE Transactions on Signal Processing, accepted.
+14. Kun Huang*, Xiao Li, Andre Milzarek, Shi Pu and Junwen Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), IEEE Transactions on Signal Processing, 71:1143-1158, 2023.
 
 13. Yijie Zhou* and Shi Pu, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf), IEEE Control Systems Letters, 7:1339 - 1344, 2023.
 
-12. Kun Huang* and Shi Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230), IEEE Transactions on Automatic Control, accepted.
+12. Kun Huang* and Shi Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230), IEEE Transactions on Automatic Control, 68(7):4127 - 4142, 2023.
 
 11. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://ieeexplore.ieee.org/abstract/document/9737402), IEEE Transactions on Signal Processing, 70:1775 - 1787, 2022.
 
