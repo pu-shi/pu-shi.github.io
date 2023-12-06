@@ -15,10 +15,10 @@ Preprints
 
 2. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), submitted.
 
-1. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), submitted.
-
 Journal Papers
 ----
+16. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), SIAM Journal on Optimization, accepted.
+
 15. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), Mathematical Programming, accepted.
 
 14. Kun Huang*, Xiao Li, Andre Milzarek, Shi Pu and Junwen Qiu, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf), IEEE Transactions on Signal Processing, 71:1143-1158, 2023.
