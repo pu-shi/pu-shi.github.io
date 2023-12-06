@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* December. 2023: Our paper, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan) has been accepted for publication by SIAM Journal on Optimization!
 * August. 2023: I became an IEEE senior member.
 * August. 2023: I gave a talk titled "Distributed Stochastic Gradient Methods over Networks" during The 14th International Conference on Numerical Optimization and Numerical Linear Algebra.
 * July. 2023: Our paper, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091) (with Yiwei Liao and Zhuorui Li), has been accepted by 2023 IEEE Conference on Decision and Control!
