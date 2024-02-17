@@ -55,7 +55,7 @@ Book Chapter
 
 Conference Papers
 ----
-4. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), 2023 IEEE 62th Conference on Decision and Control (CDC)..
+4. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), 2023 IEEE 62th Conference on Decision and Control (CDC).
 
 3. Shi Pu, [A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks](https://ieeexplore.ieee.org/abstract/document/9303917), 2020 IEEE 59th Conference on Decision and Control (CDC).
 
