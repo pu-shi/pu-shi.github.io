@@ -7,13 +7,13 @@ author_profile: true
 
 Preprints
 ----
-5. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
+4. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), submitted.
 
-4. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677), submitted.
+3. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
 
-3. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
+2. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677), submitted.
 
-2. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), submitted.
+1. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
 
 Journal Papers
 ----
@@ -55,6 +55,8 @@ Book Chapter
 
 Conference Papers
 ----
+4. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), 2023 IEEE 62th Conference on Decision and Control (CDC)..
+
 3. Shi Pu, [A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks](https://ieeexplore.ieee.org/abstract/document/9303917), 2020 IEEE 59th Conference on Decision and Control (CDC).
 
 2. Shi Pu and Angelia Nedić. A Distributed Stochastic Gradient Tracking Method. 2018 IEEE 57th Conference on Decision and Control (CDC).
