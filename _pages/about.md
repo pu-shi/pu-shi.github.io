@@ -23,7 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
-* April. 2024: Our paper, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf)(with Runze You), is online!
+* April. 2024: Our paper, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf) (with Runze You), is online!
 * February. 2024: Our paper, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf) (with Kun Huang and Angelia Nedić), is online!
 * December. 2023: Our paper, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan) has been accepted for publication in SIAM Journal on Optimization!
 * August. 2023: I became an IEEE senior member.
