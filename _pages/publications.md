@@ -7,19 +7,19 @@ author_profile: true
 
 Preprints
 ----
-5. Runze You\* and Shi Pu, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf), preprint.
+4. Runze You\* and Shi Pu, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf), preprint.
 
-4. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), submitted.
+3. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), submitted.
 
-3. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
-
-2. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677), submitted.
+2. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
 
 1. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
 
 Journal Papers
 ----
-16. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), SIAM Journal on Optimization, accepted.
+17. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677), IEEE Transactions on Automatic Control (Full Paper), accepted.
+
+16. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), SIAM Journal on Optimization, 34(1):1131-1156, 2024.
 
 15. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf), Mathematical Programming, accepted.
 
@@ -27,17 +27,17 @@ Journal Papers
 
 13. Yijie Zhou* and Shi Pu, [Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation](https://arxiv.org/pdf/2209.01756.pdf), IEEE Control Systems Letters, 7:1339-1344, 2023.
 
-12. Kun Huang* and Shi Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230), IEEE Transactions on Automatic Control, 68(7):4127-4142, 2023.
+12. Kun Huang* and Shi Pu, [Improving the Transient Times for Distributed Stochastic Gradient Methods](https://ieeexplore.ieee.org/document/9865230), IEEE Transactions on Automatic Control (Full Paper), 68(7):4127-4142, 2023.
 
 11. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks](https://ieeexplore.ieee.org/abstract/document/9737402), IEEE Transactions on Signal Processing, 70:1775-1787, 2022.
 
 10. Yiwei Liao\*,  Zhuorui Li\*, Kun Huang* and Shi Pu, [A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence](https://ieeexplore.ieee.org/abstract/document/9789732), IEEE Transactions on Automatic Control, 67(10):5622-5629, 2022.
 
-9. Shi Pu, Alex Olshevsky and Ioannis Ch. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9609587), IEEE Transactions on Automatic Control, 67(11):5900-5915, 2022.
+9. Shi Pu, Alex Olshevsky and Ioannis Ch. Paschalidis, [A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent](https://ieeexplore.ieee.org/abstract/document/9609587), IEEE Transactions on Automatic Control (Full Paper), 67(11):5900-5915, 2022.
 
 8. Shi Pu and Angelia Nedić. [Distributed Stochastic Gradient Tracking Methods](https://link.springer.com/article/10.1007/s10107-020-01487-0). Mathematical Programming, 187(1):409-457, 2021. [[arXiv](https://arxiv.org/pdf/1805.11454.pdf)]
 
-7. Shi Pu, Wei Shi (co-first), Jinming Xu and Angelia Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [[arXiv](https://arxiv.org/pdf/1810.06653.pdf)]
+7. Shi Pu, Wei Shi (co-first), Jinming Xu and Angelia Nedić. [Push-Pull Gradient Methods for Distributed Optimization in Networks](https://ieeexplore.ieee.org/abstract/document/8988200). IEEE Transactions on Automatic Control (Full Paper), 66(1):1-16, 2021. [[arXiv](https://arxiv.org/pdf/1810.06653.pdf)]
 
 6. Ran Xin, Shi Pu, Angelia Nedić and Usman Khan. [A General Framework for Decentralized Optimization with First-order Methods](https://ieeexplore.ieee.org/abstract/document/9241497). Proceedings of the IEEE, 108(11):1869-1889, 2020.
 
