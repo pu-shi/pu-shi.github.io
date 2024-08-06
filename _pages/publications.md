@@ -7,7 +7,9 @@ author_profile: true
 
 Preprints
 ----
-4. Runze You\* and Shi Pu, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf), preprint.
+5. Yiwei Liao\*, Zhuorui Li, Shi Pu and Tsung-Hui Chang, [A Robust Compressed Push-Pull Method for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2408.01727), submitted.
+
+4. Runze You\* and Shi Pu, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf), submitted.
 
 3. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), submitted.
 
