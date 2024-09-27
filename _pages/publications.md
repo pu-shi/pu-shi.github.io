@@ -7,18 +7,16 @@ author_profile: true
 
 Preprints
 ----
-5. Yiwei Liao\*, Zhuorui Li, Shi Pu and Tsung-Hui Chang, [A Robust Compressed Push-Pull Method for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2408.01727), submitted.
+3. Yiwei Liao\*, Zhuorui Li, Shi Pu and Tsung-Hui Chang, [A Robust Compressed Push-Pull Method for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2408.01727), submitted.
 
-4. Runze You\* and Shi Pu, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf), submitted.
+2. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), submitted.
 
-3. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), submitted.
-
-2. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
-
-1. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), submitted.
+1. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
 
 Journal Papers
 ----
+18. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872), IEEE Transactions on Automatic Control (Full Paper), accepted.
+
 17. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677), IEEE Transactions on Automatic Control (Full Paper), accepted.
 
 16. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), SIAM Journal on Optimization, 34(1):1131-1156, 2024.
@@ -59,6 +57,8 @@ Book Chapter
 
 Conference Papers
 ----
+5. Runze You\* and Shi Pu, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf), Advances in Neural Information Processing Systems (NeurIPS), 2024.
+
 4. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), 2023 IEEE 62th Conference on Decision and Control (CDC).
 
 3. Shi Pu, [A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks](https://ieeexplore.ieee.org/abstract/document/9303917), 2020 IEEE 59th Conference on Decision and Control (CDC).
