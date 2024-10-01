@@ -19,7 +19,7 @@ Journal Papers
 
 17. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://ieeexplore.ieee.org/abstract/document/10508084), IEEE Transactions on Automatic Control (Full Paper), 69(9):6105-6120, 2024.
 
-16. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf), SIAM Journal on Optimization, 34(1):1131-1156, 2024.
+16. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://epubs.siam.org/doi/full/10.1137/22M148570X), SIAM Journal on Optimization, 34(1):1131-1156, 2024.
 
 15. Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, [Optimal Gradient Tracking for Decentralized Optimization](https://link.springer.com/article/10.1007/s10107-023-01997-7), Mathematical Programming, 207:1-53, 2024.
 
