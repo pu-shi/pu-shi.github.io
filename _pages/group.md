@@ -13,9 +13,9 @@ author_profile: true
 
 * Yijie Zhou (2022-), Ph.D. student (MSc., Duke University)
 
-* Yiwei Liao (2020-2023), visiting student and postdoc, (Ph.D., Sichuan University)
+* Yiwei Liao (2020-2023), visiting student and postdoc (Ph.D., Sichuan University)
 
-* Bingyu Wang (2021-2023), postdoc, (Ph.D., Texas A&M University)
+* Bingyu Wang (2021-2023), postdoc (Ph.D., Texas A&M University)
 
 * Zhuoqing Song (2021), visiting Ph.D. student from Fudan University
 
