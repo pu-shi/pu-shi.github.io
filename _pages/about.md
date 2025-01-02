@@ -23,6 +23,8 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* December. 2024: Our paper,
+* December. 2024: Our paper, [Linear Convergence Analysis of Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem](https://arxiv.org/pdf/2412.00659) (with Jianhui Li, Jianqi Chen and Junfeng Wu), is online!
 * September. 2024: Our paper, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://ieeexplore.ieee.org/document/10700994) (with Kun Huang), has been accepted for publication in IEEE Transactions on Automatic Control as Full Paper!
 * September. 2024: Our paper, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf) (with Runze You), has been accepted by NeurIPS 2024!
 * August. 2024: Our paper, [A Robust Compressed Push-Pull Method for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2408.01727) (with Yiwei Liao, Zhuorui Li and Tsung-Hui Chang), is online!
