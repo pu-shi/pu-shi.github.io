@@ -7,6 +7,10 @@ author_profile: true
 
 Preprints
 ----
+5. Kun Huang\*, Shi Pu and Angelia Nedić, [Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks](https://arxiv.org/pdf/2412.13054), preprint.
+
+4. Jianhui Li, Shi Pu, Jianqi Chen and Junfeng Wu, [Linear Convergence Analysis of Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem](https://arxiv.org/pdf/2412.00659), submitted.
+
 3. Yiwei Liao\*, Zhuorui Li, Shi Pu and Tsung-Hui Chang, [A Robust Compressed Push-Pull Method for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2408.01727), submitted.
 
 2. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), submitted.
