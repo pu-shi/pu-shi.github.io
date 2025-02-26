@@ -23,6 +23,8 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* February. 2025: Our paper, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf) (with Kun Huang and Angelia Nedić), has been accepted for publication in Mathematical Programming!
+* February. 2025: I gave a talk titled "B-ary Tree Push-Pull Method for Distributed Optimization" at Anhui University. Thank Prof. Songsong Cheng for inviting!
 * December. 2024: Congratulations to Kun Huang for passing the PhD defense!
 * December. 2024: Our paper, [Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks](https://arxiv.org/pdf/2412.13054) (with Kun Huang and Angelia Nedić), is online!
 * December. 2024: Our paper, [Linear Convergence Analysis of Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem](https://arxiv.org/pdf/2412.00659) (with Jianhui Li, Jianqi Chen and Junfeng Wu), is online!
