@@ -13,12 +13,12 @@ Preprints
 
 3. Yiwei Liao\*, Zhuorui Li, Shi Pu and Tsung-Hui Chang, [A Robust Compressed Push-Pull Method for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2408.01727), submitted.
 
-2. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), submitted.
-
 1. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
 
 Journal Papers
 ----
+19. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), Mathematical Programming, accepted.
+
 18. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://ieeexplore.ieee.org/document/10700994), IEEE Transactions on Automatic Control (Full Paper), accepted.
 
 17. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://ieeexplore.ieee.org/abstract/document/10508084), IEEE Transactions on Automatic Control (Full Paper), 69(9):6105-6120, 2024.
