@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* March. 2025: Our paper, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037) (with Kun Huang and Linli Zhou), has been accepted for publication in IEEE Transactions on Automatic Control!
 * February. 2025: Our paper, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf) (with Kun Huang and Angelia Nedić), has been accepted for publication in Mathematical Programming!
 * February. 2025: I gave a talk titled "B-ary Tree Push-Pull Method for Distributed Optimization" at Anhui University. Thank Prof. Songsong Cheng for inviting!
 * December. 2024: Congratulations to Kun Huang for passing the PhD defense!
