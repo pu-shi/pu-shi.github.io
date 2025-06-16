@@ -23,6 +23,10 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* June. 2025: Our paper, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2506.07021) (with Runze You), is online!
+* May. 2025: Our paper, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/pdf/2505.10631) (with Runze You and Kun Huang), is online!
+* May. 2025: Our paper, [Asynchronous Decentralized SGD under Non-Convexity: A Block-Coordinate Descent Framework](https://arxiv.org/pdf/2505.10322) (with Yijie Zhou), is online!
+* March. 2025: Our paper, [Distributed Learning over Arbitrary Topology: Linear Speed-Up with Polynomial Transient Time](https://arxiv.org/pdf/2503.16123?) (with Runze You), is online!
 * March. 2025: Our paper, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037) (with Kun Huang and Linli Zhou), has been accepted for publication in IEEE Transactions on Automatic Control!
 * February. 2025: Our paper, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf) (with Kun Huang and Angelia Nedić), has been accepted for publication in Mathematical Programming!
 * February. 2025: I gave a talk titled "B-ary Tree Push-Pull Method for Distributed Optimization" at Anhui University. Thank Prof. Songsong Cheng for inviting!
