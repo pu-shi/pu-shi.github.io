@@ -7,6 +7,14 @@ author_profile: true
 
 Preprints
 ----
+7. Runze You\* and Shi Pu, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2506.07021), submitted.
+
+6. Runze You\*, Kun Huang\* and Shi Pu, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/pdf/2505.10631), preprint.
+
+5. Yijie Zhou\* and Shi Pu, [Asynchronous Decentralized SGD under Non-Convexity: A Block-Coordinate Descent Framework](https://arxiv.org/pdf/2505.10322), submitted.
+
+4. Runze You\* and Shi Pu, [Distributed Learning over Arbitrary Topology: Linear Speed-Up with Polynomial Transient Time](https://arxiv.org/pdf/2503.16123?), submitted.
+
 3. Kun Huang\*, Shi Pu and Angelia Nedić, [Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks](https://arxiv.org/pdf/2412.13054), submitted.
 
 2. Jianhui Li, Shi Pu, Jianqi Chen and Junfeng Wu, [Linear Convergence Analysis of Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem](https://arxiv.org/pdf/2412.00659), submitted.
