@@ -7,7 +7,7 @@ author_profile: true
 
 Preprints
 ----
-7. Kun Huang\* and Shi Pu, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155), submitted
+7. Kun Huang\* and Shi Pu, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155), submitted.
 
 6. Runze You\* and Shi Pu, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2506.07021), submitted.
 
