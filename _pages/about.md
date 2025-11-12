@@ -23,6 +23,8 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* October. 2025: Our paper, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155) (with Kun Huang), is online!
+* October. 2025: We oganized the 2025 Symposium on Distributed Optimization and Learning (SDOL 2025) at SUSTech (with Prof. Xuyang Wu).
 * June. 2025: Our paper, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2506.07021) (with Runze You), is online!
 * May. 2025: Our paper, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/pdf/2505.10631) (with Runze You and Kun Huang), is online!
 * May. 2025: Our paper, [Asynchronous Decentralized SGD under Non-Convexity: A Block-Coordinate Descent Framework](https://arxiv.org/pdf/2505.10322) (with Yijie Zhou), is online!
