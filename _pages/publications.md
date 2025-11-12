@@ -7,17 +7,17 @@ author_profile: true
 
 Preprints
 ----
-7. Runze You\* and Shi Pu, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2506.07021), submitted.
+7. Kun Huang\* and Shi Pu, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155), submitted
 
-6. Runze You\*, Kun Huang\* and Shi Pu, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/pdf/2505.10631), preprint.
+6. Runze You\* and Shi Pu, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2506.07021), submitted.
 
-5. Yijie Zhou\* and Shi Pu, [Asynchronous Decentralized SGD under Non-Convexity: A Block-Coordinate Descent Framework](https://arxiv.org/pdf/2505.10322), submitted.
+5. Runze You\*, Kun Huang\* and Shi Pu, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/pdf/2505.10631), preprint.
 
-4. Runze You\* and Shi Pu, [Distributed Learning over Arbitrary Topology: Linear Speed-Up with Polynomial Transient Time](https://arxiv.org/pdf/2503.16123?), submitted.
+4. Yijie Zhou\* and Shi Pu, [Asynchronous Decentralized SGD under Non-Convexity: A Block-Coordinate Descent Framework](https://arxiv.org/pdf/2505.10322), submitted.
 
-3. Kun Huang\*, Shi Pu and Angelia Nedić, [Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks](https://arxiv.org/pdf/2412.13054), submitted.
+3. Runze You\* and Shi Pu, [Distributed Learning over Arbitrary Topology: Linear Speed-Up with Polynomial Transient Time](https://arxiv.org/pdf/2503.16123?), submitted.
 
-2. Jianhui Li, Shi Pu, Jianqi Chen and Junfeng Wu, [Linear Convergence Analysis of Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem](https://arxiv.org/pdf/2412.00659), submitted.
+2. Kun Huang\*, Shi Pu and Angelia Nedić, [Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks](https://arxiv.org/pdf/2412.13054), submitted.
 
 1. Yiwei Liao\*, Zhuorui Li, Shi Pu and Tsung-Hui Chang, [A Robust Compressed Push-Pull Method for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2408.01727), submitted.
 
@@ -69,9 +69,11 @@ Book Chapter
 
 Conference Papers
 ----
+6. Jianhui Li, Shi Pu, Jianqi Chen and Junfeng Wu, [Linear Convergence Analysis of Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem](https://arxiv.org/pdf/2412.00659), 2025 IEEE 64th Conference on Decision and Control (CDC).
+
 5. Runze You\* and Shi Pu, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf), Advances in Neural Information Processing Systems (NeurIPS), 2024.
 
-4. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), 2023 IEEE 62th Conference on Decision and Control (CDC).
+4. Yiwei Liao*, Zhuorui Li and Shi Pu, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091), 2023 IEEE 62nd Conference on Decision and Control (CDC).
 
 3. Shi Pu, [A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks](https://ieeexplore.ieee.org/abstract/document/9303917), 2020 IEEE 59th Conference on Decision and Control (CDC).
 
