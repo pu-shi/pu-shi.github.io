@@ -46,14 +46,3 @@ Recent News
 * April. 2024: Our paper, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677) (with Kun Huang and Xiao Li), has been accepted for publication in IEEE Transactions on Automatic Control as Full Paper!
 * April. 2024: Our paper, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf) (with Runze You), is online!
 * February. 2024: Our paper, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf) (with Kun Huang and Angelia Nedić), is online!
-* December. 2023: Our paper, [Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs](https://arxiv.org/pdf/2107.12065.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan) has been accepted for publication in SIAM Journal on Optimization!
-* August. 2023: I became an IEEE senior member.
-* August. 2023: I gave a talk titled "Distributed Stochastic Gradient Methods over Networks" during The 14th International Conference on Numerical Optimization and Numerical Linear Algebra.
-* July. 2023: Our paper, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091) (with Yiwei Liao and Zhuorui Li), has been accepted by 2023 IEEE Conference on Decision and Control!
-* Jun. 2023: Our new paper, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037) (with Linli Zhou and Kun Huang), is online!
-* Jun. 2023: Our paper, [Optimal Gradient Tracking for Decentralized Optimization](https://arxiv.org/pdf/2110.05282.pdf) (with Zhuoqing Song, Lei Shi and Ming Yan) has been accepted for publication in Mathematical Programming!
-* May. 2023: I gave an invited talk titled "Asymptotic Network Independence in Distributed Stochastic Gradient Methods" during MOS2023. Thank Prof. Xiangfeng Wang, Prof. Hongjin He and Prof. Wenxing Zhang for organizing!
-* Mar. 2023: Our paper, [A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization](https://arxiv.org/abs/2303.07091) (with Yiwei Liao and Zhuorui Li), is online!
-* Mar. 2023: Our paper, [Distributed Random Reshuffling over Networks](https://arxiv.org/pdf/2112.15287.pdf) (with Kun Huang, Xiao Li, Andre Milzarek, and Junwen Qiu), has been accepted for publication in IEEE Transactions on Signal Processing!
-* Jan. 2023: Our paper, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677) (with Kun Huang and Xiao Li), is online!
-* Jan. 2023: Our paper, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872) (with Kun Huang), is online!
