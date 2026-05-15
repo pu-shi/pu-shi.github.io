@@ -21,11 +21,11 @@ Preprints
 
 Journal Papers
 ----
-21. Runze You\* and Shi Pu, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2506.07021), IEEE Transactions on Signal Processing, 74:1383-1398, 2026.
+21. Runze You\* and Shi Pu, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://ieeexplore.ieee.org/abstract/document/11442777), IEEE Transactions on Signal Processing, 74:1383-1398, 2026.
 
-20. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), Mathematical Programming, 215:193-236, 2026.
+20. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://link.springer.com/article/10.1007/s10107-025-02217-0), Mathematical Programming, 215:193-236, 2026.
 
-19. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), IEEE Transactions on Automatic Control, 70(9):6175-6182, 2025.
+19. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://ieeexplore.ieee.org/abstract/document/10933513), IEEE Transactions on Automatic Control, 70(9):6175-6182, 2025.
 
 18. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://ieeexplore.ieee.org/document/10700994), IEEE Transactions on Automatic Control (Full Paper), accepted.
 
