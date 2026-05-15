@@ -23,6 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
+* May. 2026: Our paper, BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training (with Yijie Zhou, Mingliang Zhang, Jiaqi Zhang and Xunliang Cai), has been accepted by ICML 2026!
 * March. 2026: Our paper, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://ieeexplore.ieee.org/abstract/document/11442777) (with Runze You), has been accepted for publication in IEEE Transactions on Signal Processing!
 * October. 2025: Our paper, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155) (with Kun Huang), is online!
 * October. 2025: We oganized the 2025 Symposium on Distributed Optimization and Learning (SDOL 2025) at SUSTech (with Prof. Xuyang Wu).
