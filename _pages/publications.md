@@ -7,9 +7,7 @@ author_profile: true
 
 Preprints
 ----
-7. Kun Huang\* and Shi Pu, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155), submitted.
-
-6. Runze You\* and Shi Pu, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2506.07021), submitted.
+6. Kun Huang\* and Shi Pu, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155), submitted.
 
 5. Runze You\*, Kun Huang\* and Shi Pu, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/pdf/2505.10631), preprint.
 
@@ -23,9 +21,11 @@ Preprints
 
 Journal Papers
 ----
-20. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), IEEE Transactions on Automatic Control, accepted.
+21. Runze You\* and Shi Pu, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://arxiv.org/pdf/2506.07021), IEEE Transactions on Signal Processing, 74:1383-1398, 2026.
 
-19. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), Mathematical Programming, accepted.
+20. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/pdf/2402.09714.pdf), Mathematical Programming, 215:193-236, 2026.
+
+19. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), IEEE Transactions on Automatic Control, 70(9):6175-6182, 2025.
 
 18. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://ieeexplore.ieee.org/document/10700994), IEEE Transactions on Automatic Control (Full Paper), accepted.
 
@@ -69,6 +69,10 @@ Book Chapter
 
 Conference Papers
 ----
+8. Yijie Zhou*, Mingliang Zhang, Jiaqi Zhang, Xunliang Cai and Shi Pu, BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training, Forty-third International Conference on Machine Learning (ICML), 2026.
+
+7. Yijie Zhou* and Shi Pu, Arbitrary-Order Block SignSGD for Memory-Efficient LLM Fine-Tuning, The Fourteenth International Conference on Learning Representations (ICLR), 2026.
+
 6. Jianhui Li, Shi Pu, Jianqi Chen and Junfeng Wu, [Linear Convergence Analysis of Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem](https://arxiv.org/pdf/2412.00659), 2025 IEEE 64th Conference on Decision and Control (CDC).
 
 5. Runze You\* and Shi Pu, [B-ary Tree Push-Pull Method is Provably Efficient for Decentralized Learning on Heterogeneous Data](https://arxiv.org/pdf/2404.05454.pdf), Advances in Neural Information Processing Systems (NeurIPS), 2024.
