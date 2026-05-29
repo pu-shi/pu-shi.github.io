@@ -27,7 +27,7 @@ Journal Papers
 
 19. Kun Huang\*, Linli Zhou\* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://ieeexplore.ieee.org/abstract/document/10933513), IEEE Transactions on Automatic Control, 70(9):6175-6182, 2025.
 
-18. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://ieeexplore.ieee.org/document/10700994), IEEE Transactions on Automatic Control (Full Paper), accepted.
+18. Kun Huang* and Shi Pu, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://ieeexplore.ieee.org/document/10700994), IEEE Transactions on Automatic Control (Full Paper), 70(4):2242-2257, 2025.
 
 17. Kun Huang*, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://ieeexplore.ieee.org/abstract/document/10508084), IEEE Transactions on Automatic Control (Full Paper), 69(9):6105-6120, 2024.
 
