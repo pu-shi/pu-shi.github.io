@@ -19,7 +19,7 @@ author_profile: true
 
 * Bingyu Wang (2021-2023), postdoc (Ph.D., Texas A&M University), now researcher at Chinese Academy of Sciences, China
 
-* Zhuoqing Song (2021), visiting student, now PhD student at Princeton University, USA
+* Zhuoqing Song (2021), visiting student from Fudan University, now PhD student at Princeton University, USA
 
 * Zijian Wang (2022-2023), visiting student from Tsinghua University, now PhD student at University of Minnesota, USA
 
