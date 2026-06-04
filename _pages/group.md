@@ -7,19 +7,21 @@ author_profile: true
 
 * Shi Pu (2019-), PI
 
-* Kun Huang (2020-2025), Ph.D. student (MSc., University of Connecticut)
-
 * Runze You (2022-), Ph.D. student (MSc., University of Wisconsin-Madison)
 
-* Yijie Zhou (2022-), Ph.D. student (MSc., Duke University)
+* Yijie Zhou (2022-2026), Ph.D. student (MSc., Duke University), now at Alibaba
 
-* Yiwei Liao (2020-2023), visiting student and postdoc (Ph.D., Sichuan University)
+* Kun Huang (2020-2025), Ph.D. student (MSc., University of Connecticut), now postdoc at KTH, Sweden
 
-* Bingyu Wang (2021-2023), postdoc (Ph.D., Texas A&M University)
+* Linli Zhou (2022-2024), SDS undergraduate RA, now PhD student at Texas A&M University, USA
 
-* Zhuoqing Song (2021), visiting Ph.D. student from Fudan University
+* Yiwei Liao (2020-2023), visiting student and postdoc (Ph.D., Sichuan University), now assistant researcher at Sichuan University, China
 
-* Zijian Wang (2022-2023), visiting student from Tsinghua University
+* Bingyu Wang (2021-2023), postdoc (Ph.D., Texas A&M University), now researcher at Chinese Academy of Sciences, China
 
-* Zhuorui Li (2020-2021), visiting student from Sun Yat-Sen University
+* Zhuoqing Song (2021), visiting student, now PhD student at Princeton University, USA
+
+* Zijian Wang (2022-2023), visiting student from Tsinghua University, now PhD student at University of Minnesota, USA
+
+* Zhuorui Li (2020-2021), visiting student from Sun Yat-Sen University, now PhD student at Georgia Tech, USA
 
