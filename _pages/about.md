@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an associate professor (tenured) in the [School of Data Science](https://sds.cuhk.edu.cn/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/).
+Welcome! I am an associate professor with tenure in the [School of Data Science](https://sds.cuhk.edu.cn/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/).
 
 Research Interests
 ---
