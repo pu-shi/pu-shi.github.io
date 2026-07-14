@@ -23,7 +23,7 @@ We are always looking for self-motivated students with solid mathematical backgr
 
 Recent News
 ---
-* July. 2026: I become a tenured associate professor at CUHK-Shenzhen!
+* July. 2026: I become an associate professor with tenure at CUHK-Shenzhen!
 * May. 2026: Congratulations to Yijie Zhou for passing the PhD defense!
 * May. 2026: Our paper, BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training (with Yijie Zhou, Mingliang Zhang, Jiaqi Zhang and Xunliang Cai), has been accepted by ICML 2026!
 * March. 2026: Our paper, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://ieeexplore.ieee.org/abstract/document/11442777) (with Runze You), has been accepted for publication in IEEE Transactions on Signal Processing!
