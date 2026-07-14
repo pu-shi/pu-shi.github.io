@@ -12,7 +12,7 @@ Welcome! I am a tenured associate professor in the [School of Data Science](http
 
 Research Interests
 ---
-Distributed optimization, machine learning, multi-agent networks.
+Distributed optimization, federated learning, large-scale machine learning, multi-agent networks.
 
 See [here](https://pu-shi.github.io/lab/) for our research topics, and [here](https://pu-shi.github.io/publications/) for our publications.
 
