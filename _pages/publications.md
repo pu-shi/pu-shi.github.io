@@ -9,7 +9,7 @@ Preprints
 ----
 6. Kun Huang\* and Shi Pu, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155), submitted.
 
-5. Runze You\*, Kun Huang\* and Shi Pu, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/pdf/2505.10631), preprint.
+5. Runze You\*, Kun Huang\* and Shi Pu, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/pdf/2505.10631), submitted.
 
 4. Yijie Zhou\* and Shi Pu, [Asynchronous Decentralized SGD under Non-Convexity: A Block-Coordinate Descent Framework](https://arxiv.org/pdf/2505.10322), submitted.
 
@@ -21,6 +21,8 @@ Preprints
 
 Journal Papers
 ----
+22. Yijie Zhou\* and Shi Pu, [Accelerating Decentralized Optimization via Overlapping Local Steps](https://ieeexplore.ieee.org/document/11589350), IEEE Control Systems Letters, 10:1441-1446, 2026.
+
 21. Runze You\* and Shi Pu, [Stochastic Push-Pull for Decentralized Nonconvex Optimization](https://ieeexplore.ieee.org/abstract/document/11442777), IEEE Transactions on Signal Processing, 74:1383-1398, 2026.
 
 20. Kun Huang\*, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://link.springer.com/article/10.1007/s10107-025-02217-0), Mathematical Programming, 215:193-236, 2026.
@@ -69,7 +71,7 @@ Book Chapter
 
 Conference Papers
 ----
-8. Yijie Zhou*, Mingliang Zhang, Jiaqi Zhang, Xunliang Cai and Shi Pu, BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training, Forty-third International Conference on Machine Learning (ICML), 2026.
+8. Yijie Zhou*, Mingliang Zhang, Jiaqi Zhang, Xunliang Cai and Shi Pu, [BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training](https://openreview.net/pdf?id=Agiagru6BM), Forty-third International Conference on Machine Learning (ICML), 2026.
 
 7. Yijie Zhou* and Shi Pu, [Arbitrary-Order Block SignSGD for Memory-Efficient LLM Fine-Tuning](https://openreview.net/pdf?id=NQsdnYkCar), The Fourteenth International Conference on Learning Representations (ICLR), 2026.
 
