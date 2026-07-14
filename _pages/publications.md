@@ -7,7 +7,11 @@ author_profile: true
 
 Preprints
 ----
-6. ++Kun Huang++ and Shi Pu, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155), submitted.
+8. Runze You\* and Shi Pu, [FedSUM Family: Efficient Federated Learning Methods under Arbitrary Client Participation](https://arxiv.org/pdf/2512.18275), submitted.
+
+7. Kun Huang, Shi Pu and Karl Henrik Johansson, [Achieving Linear Speedup for Composite Federated Learning](https://arxiv.org/pdf/2602.03357), submitted.
+
+6. Kun Huang\* and Shi Pu, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/pdf/2510.24155), submitted.
 
 5. Runze You\*, Kun Huang\* and Shi Pu, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/pdf/2505.10631), submitted.
 
