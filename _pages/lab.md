@@ -36,7 +36,7 @@ Our research is interdisciplinary in nature and spans several areas including **
  * Robustness: tolerant to message losses, node failures, etc.
 --->
 
-Current Projects
+Previous Projects
 ---
 ### Distributed Optimization over General Directed Networks
 
