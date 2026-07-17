@@ -18,7 +18,7 @@ See [here](https://pu-shi.github.io/lab/) for our research topics, and [here](ht
 
 Openings
 ---
-We are always looking for self-motivated students with solid mathematical background and research interests in distributed optimization, large-scale optimization algorithms for machine learning, federated learning, game theory, etc.
+We are always looking for self-motivated students with solid mathematical background and research interests in distributed optimization, large-scale optimization algorithms, machine learning, federated learning, game theory, etc.
 
 
 Recent News
